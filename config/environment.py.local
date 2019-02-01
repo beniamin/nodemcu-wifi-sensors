@@ -1,5 +1,5 @@
 config = {
     "WIFI_SSID": "",
-    "WIFI_PASSWORD": "emag.free",
-    "IOT_SERVER": "http://chome.go.ro"
+    "WIFI_PASSWORD": "",
+    "IOT_SERVER": "
 }
